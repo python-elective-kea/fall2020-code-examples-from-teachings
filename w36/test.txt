@@ -1,0 +1,4 @@
+Hello world
+Jeg er træt
+Mit navn er Frode
+

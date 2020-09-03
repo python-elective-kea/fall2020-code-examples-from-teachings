@@ -2,4 +2,5 @@ def msg(x):
     print('Hello ', x)
 
 
-msg('Claus')
+msg('Claus  Bove')
+msg('XXXXX')
